@@ -3,17 +3,17 @@ This was a proof of concept using Tile38 to see when a snow plow plowed a street
 
 HistoricalVehicleApplication
 
-REQUIRMENTS
+##REQUIRMENTS
 
-PYTHON 3
-RABBITMQ
-OS: CENT OS LINUX
-RAM: 2Gb +
-HDD: 20Gb +
-Internet Connection: MIN: 10mbps Up
+* PYTHON 3
+* RABBITMQ
+* OS: CENT OS LINUX
+* RAM: 2Gb +
+* HDD: 20Gb +
+* Internet Connection: MIN: 10mbps Up
 
 
-INSTALL
+##INSTALL
 
-RUN ./install.sh
-RUN ./MappingApplication.sh
+* RUN ./install.sh
+* RUN ./MappingApplication.sh
