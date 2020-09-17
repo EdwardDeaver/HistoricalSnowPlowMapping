@@ -3,7 +3,7 @@ This was a proof of concept using Tile38 to see when a snow plow plowed a street
 
 HistoricalVehicleApplication
 
-##REQUIRMENTS
+## REQUIRMENTS
 
 * PYTHON 3
 * RABBITMQ
@@ -13,7 +13,7 @@ HistoricalVehicleApplication
 * Internet Connection: MIN: 10mbps Up
 
 
-##INSTALL
+## INSTALL
 
 * RUN ./install.sh
 * RUN ./MappingApplication.sh
