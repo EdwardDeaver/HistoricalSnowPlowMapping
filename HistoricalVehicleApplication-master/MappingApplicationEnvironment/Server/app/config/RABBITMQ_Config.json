@@ -1,0 +1,6 @@
+{
+    "RABBITMQ_ENDPOINT_URL": "127.0.0.1", 
+    "RABBITMQ_PID": "3421\n", 
+    "RABBITMQ_USER": "12542", 
+    "TILE38_DOWNLOAD_URL": "127.0.0.1"
+}

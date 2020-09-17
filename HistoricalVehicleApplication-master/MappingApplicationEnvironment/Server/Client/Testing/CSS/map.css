@@ -1,0 +1,7 @@
+header{position: absolute; top:0%; left: 0%;padding:0;width: 100%; height:10%; background-color: #0DB4C5; font-family: Helvetica;}
+header ul{    list-style-type: none; margin: 0; padding: 0;}
+header ul li{display: inline;}
+header ul li a {color:#F2F8F8; font-size: 5vw;}
+#content{position: absolute; top:10%;width:100%; height:90%; left:0%;}
+body {padding: 0;margin: 0;}
+html, body, #content {height: 100%; width: 100vw;}

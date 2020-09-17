@@ -1,0 +1,12 @@
+{
+    "REST_API_AUTH_ENDPOINT": "", 
+    "REST_API_ENDPOINT": "", 
+    "REST_API_KEY": "", 
+    "REST_API_KEY_REFRESH": "", 
+    "REST_API_KEY_TIMEOUT": 0, 
+    "REST_API_KEY_TYPE": "", 
+    "REST_API_PASSWORD": "", 
+    "REST_API_USERNAME": "", 
+    "REST_VEHICLES_NUMBERS": [], 
+    "REST_VEHICLE_GROUP": ""
+}

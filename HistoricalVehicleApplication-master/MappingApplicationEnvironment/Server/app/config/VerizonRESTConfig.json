@@ -1,0 +1,12 @@
+{
+    "REST_API_AUTH_ENDPOINT": "https://auth.networkfleet.com/token", 
+    "REST_API_ENDPOINT": "https://api.networkfleet.com/", 
+    "REST_API_KEY": "b982c776-4b29-405a-8de3-60c97aa179d5", 
+    "REST_API_KEY_REFRESH": "ab1275cf-f1db-42de-a579-89c6e21495ba", 
+    "REST_API_KEY_TIMEOUT": 89999, 
+    "REST_API_KEY_TYPE": "Bearer", 
+    "REST_API_PASSWORD": "6e691d92eec0a4dcc821370ec0a9a52f", 
+    "REST_API_USERNAME": "Edeaver", 
+    "REST_VEHICLES_NUMBERS": [], 
+    "REST_VEHICLE_GROUP": 415282
+}

@@ -1,0 +1,11 @@
+{
+    "CITY_ORIGIN": "Syracuse", 
+    "COUNTRY_ORIGIN": "USA", 
+    "REST_API_ENDPOINT": "https://www.mapquestapi.com/", 
+    "REST_API_KEY": [
+        "D5FpMwBgLcc4SwjdIznYTqMSVDaNXiYn",
+        "VwQdswl8VjEkWkJfkvzhBollj1DAQL33"
+    ], 
+    "REST_API_SECRET": "MAuGbgEWXWfW2MUj", 
+    "STATE_ORIGIN": "New York"
+}
